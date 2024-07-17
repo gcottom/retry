@@ -1,4 +1,5 @@
 # Retry
+[![Go Reference](https://pkg.go.dev/badge/github.com/gcottom/retry.svg)](https://pkg.go.dev/github.com/gcottom/retry)
 
 Retry is a simple generic function retryer. It comes with 4 predefined retry timing algorithms and the flexibility to add and define your own.
 
